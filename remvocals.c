@@ -3,7 +3,7 @@
 //  A1
 //
 //  Created by Siddharth Gautam on 24/01/15.
-//  Copyright (c) 2015 Siddtechnologies inc. All rights reserved.
+//  
 //
 
 #include <stdio.h>
